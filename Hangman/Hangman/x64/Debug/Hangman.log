@@ -1,0 +1,6 @@
+﻿  Source19.cpp
+c:\users\moonste\documents\hangman-master (1)\hangman-master\hangman\hangman\source19.cpp(68): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\moonste\documents\hangman-master (1)\hangman-master\hangman\hangman\source19.cpp(136): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\moonste\documents\hangman-master (1)\hangman-master\hangman\hangman\source19.cpp(143): warning C4553: '==': operator has no effect; did you intend '='?
+  Hangman.vcxproj -> C:\Users\moonste\Documents\HangMan-master (1)\HangMan-master\Hangman\x64\Debug\Hangman.exe
+  Hangman.vcxproj -> C:\Users\moonste\Documents\HangMan-master (1)\HangMan-master\Hangman\x64\Debug\Hangman.pdb (Full PDB)
